@@ -1,0 +1,18 @@
+{
+  "name": "miso.starter-jasmine-async",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/jasmine": "^3.8.2",
+    "@types/node": "^16.4.13",
+    "jasmine": "^3.8.0",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
